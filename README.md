@@ -29,7 +29,7 @@ We came across different KPIs and conclude the following
 
 # Insights
 * Low-performing areas need to focus more on fast-moving segments and categories for improvement.
-* Provide discounts for new customer interaction and market recognition.
+* Provide discounts and promotion activities for customers for better interaction and market recognition.
 # Challenges & Learnings
 * Taking into consideration time series data.
 * Utilize suitable visuals to meet the specific requirements of sales analysis effectively.
